@@ -4,7 +4,7 @@
     "paragraph": "Kun yrityksen kasvu vaatii markkinointia, mutta juuri nyt rekrytointi ei ole ajankohtainen, on ulkoistettu markkinointipäällikkö tai markkinoinnin strateginen osaaja oiva ratkaisu yrityksen koosta riippumatta."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Moi, olen Pishko Yari, can do -asenteella varustettu pitkän linjan markkinoinnin ammattilainen. Taustaltani löytyy menestyksekkäästi suoritettuja markkinoinnin työtehtäviä niin monelta eri kantilta, että sellaisia markkinoinnin haasteita ei oikeastaan enää löydy, joihin en uskaltaisi tarttua. ",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -84,30 +84,15 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/pishko.jpg",
+      "name": "Pishko Yari",
+      "job": "Omistaja"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Jyväskylä ",
+    "phone": "pishkon numero",
+    "email": "email",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -117,11 +102,6 @@
       "icon": "fa fa-comments-o",
       "title": "Valmis markkinoinnin ammattilainen",
       "text": "Minun tehtäväni on tuoda yrityksellesi kasvua markkinoinnin avulla. Pitkä kokemus on tuonut minulle varmuutta ja rohkeutta ottaa isojakin haasteita vastaan ja viedä niitä menestyksekkäästi, tulosta tehden maaliin. Olen vahva strategi ja liiketoimintaosaaja. Autan sinua tuomaan markkinoinnin osaksi liiketoimintastrategiaa. "
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
