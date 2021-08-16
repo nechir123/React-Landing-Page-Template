@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "MARKKINOINTI PALVELUNA",
+    "paragraph": "Kun yrityksen kasvu vaatii markkinointia, mutta juuri nyt rekrytointi ei ole ajankohtainen, on ulkoistettu markkinointipäällikkö tai markkinoinnin strateginen osaaja oiva ratkaisu yrityksen koosta riippumatta."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -115,8 +115,8 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Valmis markkinoinnin ammattilainen",
+      "text": "Minun tehtäväni on tuoda yrityksellesi kasvua markkinoinnin avulla. Pitkä kokemus on tuonut minulle varmuutta ja rohkeutta ottaa isojakin haasteita vastaan ja viedä niitä menestyksekkäästi, tulosta tehden maaliin. Olen vahva strategi ja liiketoimintaosaaja. Autan sinua tuomaan markkinoinnin osaksi liiketoimintastrategiaa. "
     },
     {
       "icon": "fa fa-bullhorn",
@@ -125,13 +125,13 @@
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Välitän asiakkaistani",
+      "text": "Periaatteenani on aina tyytyväinen asiakas. Yksinyrittäjänä asiakkaani ovat työkavereitani ja kollegoitani, siksi myös valitsen asiakkaani niin että varmasti sovimme toisillemme. Yleensä tämä käy ilmi jo alkukeskustelujen aikana. Jos päädymme kumppaneiksi, minä todella investoin aikaani ja osaamistani käyttöösi ja teen kaikkeni että onnistumme yhdessä. "
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Nopeasti käyntiin",
+      "text": "Olen 20 vuoden urani aikana työskennellyt markkinoinnin parissa sekä asiakkaan että markkinointitoimiston roolissa. Taustani on todella kattava olen nähnyt urallani paljon. Nopean omaksumiskykyni ja kattavan osaamiseni ansiosta voimme saada yrityksesi markkinoinnin tuottamaan tuloksia nopeastikin."
     }
   ]
 }
