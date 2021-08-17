@@ -1,6 +1,11 @@
 export const Navigation = (props) => {
+  const backgroundStyle = {
+    backgroundImage: `linear-gradient(to right, rgb(234 4 4 / 50%), rgb(78 105 239)), 
+url(../../public//img/intro-bg.jpg)`,
+    backgroundSize: "cover",
+  }
   return (
-    <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
+    <nav id='menu' className='navbar navbar-default navbar-fixed-top' >
       <div className='container'>
         <div className='navbar-header'>
           <button
