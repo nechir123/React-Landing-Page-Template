@@ -12,7 +12,7 @@ url(../../public//img/intro-bg.jpg)`,
         <div className='overlay' style={backgroundStyle}>
           <div className='container'>
             <div className='row'>
-              <div className='col-md-8 col-md-offset-2 intro-text'>
+              <div className='col-md-8 col-md-offset-2  col-xs-12 intro-text'>
                 <h1>
                   {props.data ? props.data.title : 'Loading'}
                   <span></span>
